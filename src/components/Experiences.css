@@ -1,0 +1,36 @@
+
+.exp-title {
+    color: var(--primary-black, #191919);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: -0.54px;
+  }
+
+.exp-right {
+    justify-content: space-between;
+    width: 640px;
+    margin-bottom:144px ;
+  }
+  
+.ExpNames {
+    color: var(--primary-black, #191919);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    letter-spacing: -0.6px;
+  }
+
+.ExpNames:Hover {
+    font-weight: 400 ;
+    color:#FF5964;
+
+}
+  
+.ExpContent {
+    justify-content: space-between;
+  }
+  
+  

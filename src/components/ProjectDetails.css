@@ -1,0 +1,56 @@
+.project-header {
+    width: 100%;
+    height: 600px;
+    border-radius: 24px;
+    margin-bottom: 32px;
+}
+
+.page-wrapper-detail {
+    padding-top: 24px;
+    padding-bottom: 160px;
+    padding-right: 40px;
+    padding-left: 40px;
+    position: relative;
+    background-color: #f0f0f0;
+    z-index: 7;
+    border-radius: 0px 0px 24px 24px;
+
+  }
+
+  .ClientName {
+    color: var(--primary-black, #191919);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: -0.14px;
+  }
+
+  .main-infos {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .detail-infos {
+    border-radius: 0px 0px 24px 24px;
+    padding-top: 144px;
+    display: flex;
+    justify-content:space-between;
+    background-color:'#f0f0f0';
+    position: relative;
+    z-index: 1;
+  }
+
+  .project-pic {
+    width: 100%;
+    height: 500px;
+    border-radius: 24px;
+    margin-bottom: 32px;
+}
+
+.project-pics-d {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+
+}

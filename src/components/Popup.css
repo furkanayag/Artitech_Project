@@ -1,0 +1,52 @@
+
+@media screen and (min-width:768px) {
+.ant-drawer-content-wrapper {
+    width: 50%!important ;
+}}
+
+.ant-drawer .ant-drawer-header {
+    border-bottom: none;
+}
+
+.Text {
+    opacity: .8;
+    text-transform: none;
+    margin-right: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline;
+    color: #131417;
+    font-weight: 400;
+    line-height: 48px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.TextSec {
+    opacity: .8;
+    text-transform: none;
+    margin-right: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline;
+    color: #131417;
+    font-weight: 400;
+    line-height: 48px;
+    padding-right: 4px;
+}
+
+.submit-button {
+    background: black;
+    border-radius: 100px;
+    border: none;
+    color: white;
+    padding: 0px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin-top: 12px;
+  }
+
+
+

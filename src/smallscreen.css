@@ -1,0 +1,239 @@
+@media screen and (max-width:768px) {
+
+    .Cursor {
+        display: none!important;
+    }
+
+    .SecondCursor {
+        display: none!important;
+    }
+    
+    .Navbar {
+        padding-left: 16px!important;
+        padding-right: 16px!important;
+    }
+    .Links {
+        display: none;
+    }
+
+    .Social {
+        display: none!important;
+    }
+    
+    .page-wrapper {
+        padding-top: 120px!important;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    
+    .Body {
+      display: block!important;
+      justify-content: space-between!important;
+    }
+
+    .BodyRight {
+        font-size: 48px!important;
+        padding-top: 12px!important;
+    }
+
+    .Row {
+        display: block!important;
+    }
+    
+    .project {
+        height: 300px!important;
+    }
+
+    .project-content:hover .project-text {
+        top: 30px!important;
+        left: 30px!important;
+    }
+
+    .project-content:hover .project-year {
+        top: 30px!important;
+        right: 30px!important;
+      }
+
+    .Info {
+        display: block!important;
+    }
+
+    .services {
+        padding-bottom: 100px!important;
+    }
+
+    .ServicesTitle {
+        font-size: 16px!important;
+    }
+
+    .ServicesNames {
+        font-size: 18px!important;
+    }
+
+    .Summary {
+        max-width: none!important;
+    }
+
+    .SummaryBody {
+        max-width: none!important;
+    }
+
+    .SumTitle {
+        font-size: 16px!important;
+        line-height: 160%!important;
+      }
+
+    .SolidBox {
+        font-size: 28px!important;
+        line-height: 140%!important;
+        padding: 2px 16px!important;
+      }
+
+    .Experience {
+        padding-top: 64px!important;
+        display: block!important;
+        padding-left:16px!important; 
+        padding-right:16px!important;
+        padding-bottom: 16px!important;
+      }
+
+    .exp-left {
+        padding-bottom: 12px!important;
+        
+    }
+
+    .ExpContent {
+        display: block!important;
+    }
+
+    .ExpNames {
+        font-size: 16px!important;
+    }
+
+    .exp-right {
+        max-width: 100%!important;
+        width: 100%!important;
+    }
+
+    .footer {
+        padding-left: 8px!important;
+        padding-right: 8px!important;
+    }
+
+    .FooterMid {
+        padding-bottom:84px!important;
+        padding-top:84px!important;
+    }
+
+    .FotterBottom {
+        display: block!important;
+    }
+
+    .BottomButtons {
+        display: flex!important;
+    }
+
+    .BottomButton {
+        margin:4px!important;
+        padding: 8px 16px !important;
+    }
+
+    .ant-drawer-content-wrapper {
+        max-width: none!important;
+        width: 100% !important;
+    }
+
+    .PageWrapper {
+        padding-top:120px!important;
+        padding-left: 16px!important;
+        padding-right: 16px!important;
+        padding-bottom: 24px!important;
+    }
+
+    .BodyRight {
+        font-size: 48px!important;
+    }
+
+    .Title {
+        font-size: 32px!important;
+    }
+
+    .Experience2  {
+        display: block!important;
+    }
+
+    .PageWrapperAbout {
+        padding-left: 16px!important;
+        padding-right: 16px!important;
+    }
+
+    .AboutPicMobile {
+        display: block!important;
+    }
+
+    .AppNavbar {
+        display: flex!important;
+        justify-content: space-between!important;
+        padding-right: 16px!important;
+    }
+
+    .Hamburger {
+        display: block!important;
+        padding-top: 24px!important;
+ 
+    }
+
+    .MuiSvgIcon-root {
+        font-size: 2rem!important;
+    }
+
+    .Text {
+        max-width: 100%!important;
+    }
+
+    .AboutPic {
+        display: none!important;
+        visibility: hidden!important;
+    }
+
+    .ProjectDiv {
+        padding-left: 16px!important;
+        padding-right: 16px!important;
+    }
+
+    .page-wrapper-detail {
+        padding-left: 16px!important;
+        padding-right: 16px!important;
+    }
+
+    .project-header {
+        height: 300px!important;
+    }
+
+    .services {
+        display: none!important;
+    }
+
+
+    .detail-infos {
+        padding-top: 24px!important;
+        display: block!important;
+    }
+
+    .project-pics-d {
+        display:block!important;
+    }
+
+    .project-pic {
+        height: 300px!important;
+        margin-bottom: 16px!important;
+    }
+
+
+
+
+    
+
+
+
+  }
