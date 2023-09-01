@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "img": "assets/images/jungle_logo.png",
+        "name": "Gifty",
+        "year": "2022",
+        "clientname": "Coursera",
+        "service1": "Web Design",
+        "service2": "",
+        "service3": "Brand Identity",
+        "location": "Istanbul",
+        "explanation": "Lorem Ipsum",
+        "img1": "assets/images/Project1.jpg",
+        "img2": "assets/images/Project1.jpg",
+        "img3": "assets/images/Project1.jpg",
+        "img4": "assets/images/Project1.jpg",
+        "img5": "assets/images/Project1.jpg" 
+    },
+    {
+        "id": 2,
+        "img": "assets/images/Project1.jpg",
+        "name": "Gifty",
+        "year": "2022",
+        "clientname": "Coursera",
+        "service1": "Web Design",
+        "service2": "Consept",
+        "service3": "Brand Identity",
+        "location": "Istanbul",
+        "explanation": "Lorem Ipsum",
+        "img1": "assets/images/Project1.jpg",
+        "img2": "assets/images/Project1.jpg",
+        "img3": "assets/images/Project1.jpg",
+        "img4": "assets/images/Project1.jpg",
+        "img5": "assets/images/Project1.jpg" 
+    }
+]
